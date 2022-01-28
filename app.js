@@ -4,7 +4,6 @@ var content = document.querySelector('#app main')
 
 submitButton.addEventListener('click',run)
 
-
 function run (event){
     event.preventDefault()
 
